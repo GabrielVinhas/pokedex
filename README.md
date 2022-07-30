@@ -4,6 +4,8 @@
 
 <img src="https://i.imgur.com/sEdC0Fi.gif">
 
+### Deploy: https://gabrielvinhas.github.io/pokedex/
+
 ## 🚀 Informações
 
 ### Página HTML estilizada em CSS e Programação em JavaScript.
